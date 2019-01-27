@@ -1,0 +1,362 @@
+
+(array_assign_operator_equal_test)
+(array_out_of_bounds_max_negative_index_test)
+(array_out_of_bounds_max_negative_index_test)
+(array_neg_length_test)
+(array_out_of_bounds_max_negative_index_test)
+(array_copy_Constructor_equal_test)
+-10 -9 -8 -7 -6 -10 -10 -9 -9 -8 -8 -7 -7 -6 -6 (array_bad_length_test)
+(array_def_Constructor_Check_Start_index)
+(array_in_bounds_positive_index_test)
+(array_constructor_test)
+(array_self_to_self_assign_operator)
+(array_assign_operator_equal_test)
+1D User specified Array Constructor 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Array Constructor created ...
+1D Assignment (=) operator - rhs 
+1D get_Length = 5
+1D get_Start_Index = -10
+1D deleted storage_
+1D created a new storage_ ...
+1D get_Length = 5
+1D get_Length = 5
+1D get_Start_Index = -10
+1D get_Start_Index = -10
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D -- its Gone - Deleted 1D Array Constructor
+1D -- its Gone - Deleted 1D Array Constructor
+(array_out_of_bounds_max_negative_index_test)
+1D User specified Array Constructor 
+1D Assignment [] operator 
+1D -- its Gone - Deleted 1D Array Constructor
+(array_out_of_bounds_max_negative_index_test)
+1D User specified Array Constructor 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D -- its Gone - Deleted 1D Array Constructor
+(array_neg_length_test)
+1D User specified Array Constructor 
+1D -- its Gone - Deleted 1D Array Constructor
+(array_out_of_bounds_max_negative_index_test)
+1D User specified Array Constructor 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D -- its Gone - Deleted 1D Array Constructor
+(array_copy_Constructor_equal_test)
+1D User specified Array Constructor 
+1D Assignment [] operator 
+1D Assignment [] operator 
+-10 1D Assignment [] operator 
+1D Assignment [] operator 
+-9 1D Assignment [] operator 
+1D Assignment [] operator 
+-8 1D Assignment [] operator 
+1D Assignment [] operator 
+-7 1D Assignment [] operator 
+1D Assignment [] operator 
+-6 1D get_Length = 5
+1D get_Start_Index = -10
+1D Copy Constructor array
+1D User specified Array Constructor 
+1D get_Length = 5
+1D get_Length = 5
+1D get_Start_Index = -10
+1D get_Start_Index = -10
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+-10 -10 1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+-9 -9 1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+-8 -8 1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+-7 -7 1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+-6 -6 1D -- its Gone - Deleted 1D Array Constructor
+1D -- its Gone - Deleted 1D Array Constructor
+(array_bad_length_test)
+1D User specified Array Constructor 
+(array_def_Constructor_Check_Start_index)
+1D Array Constructor created ...
+1D get_Start_Index = 0
+1D -- its Gone - Deleted 1D Array Constructor
+(array_in_bounds_positive_index_test)
+1D User specified Array Constructor 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D -- its Gone - Deleted 1D Array Constructor
+(array_constructor_test)
+1D Array Constructor created ...
+1D -- its Gone - Deleted 1D Array Constructor
+(array_self_to_self_assign_operator)
+1D User specified Array Constructor 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment (=) operator - rhs 
+1D get_Length = 5
+1D get_Length = 5
+1D get_Start_Index = -10
+1D get_Start_Index = -10
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D -- its Gone - Deleted 1D Array Constructor
+(array_assign_operator_equal_test)
+1D User specified Array Constructor 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Array Constructor created ...
+1D Assignment (=) operator - rhs 
+1D get_Length = 5
+1D get_Start_Index = -10
+1D deleted storage_
+1D created a new storage_ ...
+1D get_Length = 5
+1D get_Length = 5
+1D get_Start_Index = -10
+1D get_Start_Index = -10
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D -- its Gone - Deleted 1D Array Constructor
+1D -- its Gone - Deleted 1D Array Constructor
+(array_out_of_bounds_max_negative_index_test)
+1D User specified Array Constructor 
+1D Assignment [] operator 
+1D -- its Gone - Deleted 1D Array Constructor
+(array_out_of_bounds_max_negative_index_test)
+1D User specified Array Constructor 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D -- its Gone - Deleted 1D Array Constructor
+(array_neg_length_test)
+1D User specified Array Constructor 
+1D -- its Gone - Deleted 1D Array Constructor
+(array_out_of_bounds_max_negative_index_test)
+1D User specified Array Constructor 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D -- its Gone - Deleted 1D Array Constructor
+(array_copy_Constructor_equal_test)
+1D User specified Array Constructor 
+1D Assignment [] operator 
+1D Assignment [] operator 
+-10 1D Assignment [] operator 
+1D Assignment [] operator 
+-9 1D Assignment [] operator 
+1D Assignment [] operator 
+-8 1D Assignment [] operator 
+1D Assignment [] operator 
+-7 1D Assignment [] operator 
+1D Assignment [] operator 
+-6 1D get_Length = 5
+1D get_Start_Index = -10
+1D Copy Constructor array
+1D User specified Array Constructor 
+1D get_Length = 5
+1D get_Length = 5
+1D get_Start_Index = -10
+1D get_Start_Index = -10
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+-10 -10 1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+-9 -9 1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+-8 -8 1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+-7 -7 1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+-6 -6 1D -- its Gone - Deleted 1D Array Constructor
+1D -- its Gone - Deleted 1D Array Constructor
+(array_bad_length_test)
+1D User specified Array Constructor 
+(array_def_Constructor_Check_Start_index)
+1D Array Constructor created ...
+1D get_Start_Index = 0
+1D -- its Gone - Deleted 1D Array Constructor
+(array_in_bounds_positive_index_test)
+1D User specified Array Constructor 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D -- its Gone - Deleted 1D Array Constructor
+(array_constructor_test)
+1D Array Constructor created ...
+1D -- its Gone - Deleted 1D Array Constructor
+(array_self_to_self_assign_operator)
+1D User specified Array Constructor 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment (=) operator - rhs 
+1D get_Length = 5
+1D get_Length = 5
+1D get_Start_Index = -10
+1D get_Start_Index = -10
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D Assignment [] operator 
+1D -- its Gone - Deleted 1D Array Constructor
